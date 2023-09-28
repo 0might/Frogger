@@ -4,17 +4,17 @@
     # If you just grab and use the hosts without doing one extra check that maybe the reason why your connection is slow.
 
 import os
-import time
 import sys
-import subprocess
+import time
 import string
 import random
 import platform
+import subprocess
 from threading import Thread
 from colorama import Fore, Back, Style, init
 
-Dim = Style.DIM
 Red = Fore.RED
+Dim = Style.DIM
 Gre = Fore.GREEN
 Yel = Fore.YELLOW
 
