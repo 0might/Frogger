@@ -33,6 +33,6 @@ pip install -r req.txt
 ```
 python3 main.py
 ```
-- After frogger is done scanning it will output a file with "UP" at the start of it
+- After frogger is done scanning it will output a file in "misc" with "UP" at the start of it
 - That will be a list of the active hosts out of the ones provided
 
