@@ -2,6 +2,12 @@
 
 ## Use this to check a list of proxies to see if they're active.
 
+```
+git clone https://github.com/0might/Frogger/
+
+cd Frogger
+```
+
 # Run steps
 
 ## Python3
